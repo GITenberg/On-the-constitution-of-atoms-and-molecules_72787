@@ -1,0 +1,39 @@
+_repo: On-the-constitution-of-atoms-and-molecules_72787
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bohr, Niels
+    aliases:
+    - Bohr, N. (Niels)
+    - Bohr, Niels Henrik David
+    birthdate: 1885
+    deathdate: 1962
+    gutenberg_agent_id: '44167'
+    url: http://www.gutenberg.org/2009/agents/44167
+    wikipedia: https://en.wikipedia.org/wiki/Niels_Bohr
+description: ''
+gutenberg_issued: '2024-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72787'
+language: en
+pgterms:marc904: https://archive.org/details/londonedinburg6261913lond
+pgterms:marc905: 20231011110824bohr
+pgterms:marc906: '1913'
+pgterms:marc907: UK
+production_note: Laura Natal Rodrigues (Images generously made available by The Internet
+  Archive.)
+publication_note: '  $aLondon :$bTaylor and Francis, $c1913.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Atomic theory'
+- !lcsh 'Nuclear energy'
+- !lcsh 'Molecular theory'
+- !lcc 'QC'
+- GITenberg
+tableOfContents: Part 1. Binding of electrons by positive nuclei -- Part 2. Systems
+  containing only a single nucleus -- Part 3. Systems containing several nuclei.
+title: On the constitution of atoms and molecules
+url: http://www.gutenberg.org/ebooks/72787
